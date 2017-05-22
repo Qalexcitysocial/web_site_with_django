@@ -1,0 +1,9 @@
+#TDD user story
+
+User strory
+A description of how the application will work from the point of view of the user
+Used to structure a functional test.
+
+Expected failure
+   When a test fails in the way that we expected it to.
+
